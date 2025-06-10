@@ -73,7 +73,7 @@
     <header class="bg-white shadow-sm sticky top-0 z-50">
         <nav class="container mx-auto px-4 sm:px-6 lg:px-8 py-3 flex justify-between items-center">
             <h1 class="text-xl md:text-2xl font-bold text-[#4A908A]">
-                <span class="hidden sm:inline">Báo Cáo Tổng Quan Thị Trường:</span> Lao Động 2025
+                <span class="hidden sm:inline">Báo Cáo Thị Trường:</span> Lao Động 2025
             </h1>
             <div class="hidden md:flex space-x-2">
                 <a href="#overview" class="nav-button text-gray-600 hover:bg-gray-200 px-3 py-2 rounded-md text-sm font-medium">Tổng Quan</a>
