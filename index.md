@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<BÙI ĐOÀN CHUNG>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
