@@ -98,7 +98,8 @@
     <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12">
         <section class="text-center mb-12 md:mb-16 fade-in">
             <h2 class="text-3xl md:text-5xl font-extrabold text-[#333333] mb-3">Toàn Cảnh Thị Trường Lao Động Việt Nam 2025</h2>
-            <p class="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">Phân tích tương tác dựa trên báo cáo của <span class="font-semibold text-[#4A908A]">Nghề Nhân sự Việt Nam (NNS)</span>. Khám phá các số liệu, xu hướng và thách thức định hình thị trường.</p>
+            <p class="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">Phân tích tương tác dựa trên báo cáo của AI do <span class="font-semibold text-[#4A908A]">Nghề Nhân sự Việt Nam (NNS)</span>. 
+            Khám phá các số liệu, xu hướng và thách thức định hình thị trường.</p>
         </section>
 
         <section id="key-indicators" class="mb-12 md:mb-16">
@@ -129,7 +130,7 @@
         <div class="space-y-16 md:space-y-24">
             <section id="overview" class="fade-in">
                 <h3 class="text-2xl md:text-3xl font-bold text-center mb-2">Bức Tranh Tổng Quan</h3>
-                <p class="text-gray-600 text-center max-w-3xl mx-auto mb-8">Năm 2025 chứng kiến sự mở rộng quy mô lực lượng lao động so với cùng kỳ, đi kèm với sự cải thiện về chất lượng. Tuy nhiên, tỷ lệ lao động phi chính thức vẫn là một thách thức lớn, ảnh hưởng đến tính bền vững của việc làm.</p>
+                <p class="text-gray-600 text-center max-w-3xl mx-auto mb-8">Năm 2025 chứng kiến sự mở rộng quy mô lực lượng lao động so với cùng kỳ, đi kèm với sự cải thiện về chất lượng. Tuy nhiên, tỷ lệ lao động phi chính thức vẫn là một thách thức lớn, ảnh hưởng đến tính bền vững của việc làm và thị trường đầu năm 2025.</p>
                 <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-center">
                     <div class="lg:col-span-2 bg-white p-4 sm:p-6 rounded-xl shadow-lg">
                         <div class="chart-container">
@@ -156,7 +157,7 @@
                     <div class="text-center mb-6">
                         <div class="inline-flex rounded-md shadow-sm" role="group">
                             <button type="button" id="btnGeneralUnemployment" class="nav-button active px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-l-lg hover:bg-gray-100">
-                                Chung
+                                Thị trường
                             </button>
                             <button type="button" id="btnYouthUnemployment" class="nav-button px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-r-md hover:bg-gray-100">
                                 Thanh niên (15-24)
@@ -171,7 +172,7 @@
 
             <section id="business" class="fade-in">
                 <h3 class="text-2xl md:text-3xl font-bold text-center mb-2">Sức Khỏe Doanh Nghiệp: Tăng Trưởng & Sàng Lọc</h3>
-                <p class="text-gray-600 text-center max-w-3xl mx-auto mb-8">Môi trường kinh doanh 2025 đầy năng động nhưng cũng vô cùng khắc nghiệt. Số doanh nghiệp gia nhập thị trường gần như tương đương với số rút lui, cho thấy một quá trình "thanh lọc" tự nhiên đang diễn ra mạnh mẽ.</p>
+                <p class="text-gray-600 text-center max-w-3xl mx-auto mb-8">Môi trường kinh doanh 2025 đầy năng động nhưng cũng vô cùng khắc nghiệt. Số doanh nghiệp gia nhập thị trường gần như tương đương với số rút lui, cho thấy một quá trình "thanh lọc" đang diễn ra mạnh mẽ.</p>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                     <div class="bg-white p-6 rounded-xl shadow-lg text-center">
                         <h4 class="text-lg font-semibold mb-2">Doanh Nghiệp Gia Nhập</h4>
