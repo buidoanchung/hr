@@ -97,9 +97,8 @@
     <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8 md:py-12">
         <section class="text-center mb-12 md:mb-16 fade-in">
             <h2 class="text-3xl md:text-5xl font-extrabold text-[#333333] mb-3">Toàn Cảnh Thị Trường Lao Động Việt Nam 2025</h2>
-            <p class="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">Phân tích tương tác dựa trên báo cáo của <span class="font-semibold text-[#4A908A]">Nghề Nhân sự Việt Nam (NNS)</span>. Khám phá các số liệu, xu hướng và thách thức định hình thị trường.</p>
+            <p class="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto">Phân tích dựa trên các báo cáo của AI do <span class="font-semibold text-[#4A908A]">Nghề Nhân sự Việt Nam (NNS)</span>. Khám phá các số liệu, xu hướng và thách thức định hình thị trường.</p>
         </section>
-
         <section id="key-indicators" class="mb-12 md:mb-16">
             <div class="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
                 <div class="bg-white p-4 rounded-xl shadow-md text-center fade-in">
